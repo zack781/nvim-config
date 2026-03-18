@@ -1,4 +1,5 @@
-/home/zack/.config/nvim/
+~/.config/nvim/
+```
 ├── init.lua
 ├── lazy-lock.json
 └── lua
@@ -7,6 +8,7 @@
     └── plugins
         ├── init.lua
         └── telescope.lua
+```
 
 Current nvim version in use = 0.11.6
 Downloaded as nvim-linux-arm64.tar.gz
