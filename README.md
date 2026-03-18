@@ -16,3 +16,7 @@ Downloaded as nvim-linux-arm64.tar.gz
 `sudo ln -s ~/nvim-linux-arm64/bin/nvim /usr/bin/nvim`
 
 New plugins can be added to /plugins and configured accordingly in init.lua
+
+---
+
+Plugin development using Lua coming soon!!!
